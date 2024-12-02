@@ -3,6 +3,7 @@ __pycache__/
 
 bdd_traducteur/mysql.sock
 bdd_traducteur/bdd/
+bdd
 
 .api/
 .web/
